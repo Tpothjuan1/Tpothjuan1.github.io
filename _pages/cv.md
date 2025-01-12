@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. Computer Science, University of Texas at Austin,  2026 (expected)
+* B.S. Computer Science (Summa Cum Laude), Florida State University, 2024
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Undergraduate Research Student from Spring 2023 – Spring 2024
+  Department of Computer Science, Florida State University
+  Worked alongside Dr. Karen Works, Associate Teaching Professor, Computer Science at FSU in a research work
+  titled “Effects of Graph Augmentation of Graph Neural Network (GNN) Twitter Bot Detection Models”.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional experience
+======
+* Network Engineer from Aug. 2022 - Present
+  * Presidio
+  * Duties include: Ensure business continuity for multiple clients through complex      network support involving a wide range of technologies and    vendors.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Telecommunications Technician from Dec. 2020 - Aug. 2022
+  * MC Dean Inc.
+  * Duties include: Installation, termination and testing of single-mode fiber optics and Cat6(A) cables for the new Orlando International Airport's temrinal.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine learning, and mathematical packages: Pytorch, sci-kit-learn, Pandas, Numpy, Tensorboard.
+* Network engineering, routing/switching protocols, SD-WAN, and Next-generation firewalls.
+* Cloud Computing.
+* Electronic foundations and cabling.
 
-Publications
+Honors and Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Honorable mention at the 2024 Florida State University Undergraduate Symposium
+* St. Joe Community Foundation Scholarship Endowment – 2022
+
+Presentations
+======
+* Juan Sanchez Moreno, Dr. Karen Works. (Nov. 2024). Effects of Graph Augmentation of Graph Neural Network (GNN) Twitter Bot Detection Models at 38th Annual CCSC: Southeastern Conference at Furman University. Greenville, SC.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
+Certifications and Licenses
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Terraform Associate (003)
+* AWS Certified Developer Associate
+* Cisco Certified Network Associate (CCNA)
