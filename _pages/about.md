@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Juan Sanchez Moreno Academic Profile"
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Research Interests
+======
+* Machine learning investigations applied to graphical data like social media, computers, and other types of networks
+that can be represented as graphs.
+* Autonomous Systems.
+* Cryptography and privacy
 
 Education
 ======
